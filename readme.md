@@ -1,11 +1,3 @@
-VPC (public, private subnets, Route Table(public+private), NAT, IGW) -> Complete
-Load balancer, target group, security groups(frontend, backend) -> Half complete
-ECS(Cluster, service, task defintion, cloud watch log group, Autoscaling) Fargate not EC2
-ECS Service discovery (backend)
-
-
-
-
 ## ECS
 
 #### Resources Created by the module.
